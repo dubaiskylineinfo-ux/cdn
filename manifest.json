@@ -1,0 +1,31 @@
+{
+  "name": "Dubai Skyline Lahore",
+  "short_name": "Dubai Skyline",
+  "description": "Dubai Skyline provides expert AC repairing, servicing, and old AC buying in Lahore. Specialists in duct, package, split, and VRF units. Call 0300-1076322 now!",
+  "icons": [
+    {
+      "src": "https://cdn.dubaiskyline.com.pk/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://cdn.dubaiskyline.com.pk/favicon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://cdn.dubaiskyline.com.pk/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "https://www.dubaiskyline.com.pk/",
+  "scope": "/",
+  "orientation": "portrait"
+}
