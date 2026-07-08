@@ -16,7 +16,7 @@
     {
       "src": "https://cdn.dubaiskyline.com.pk/favicon-512x512.png",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/png"
     }
   ],
   "theme_color": "#ffffff",
